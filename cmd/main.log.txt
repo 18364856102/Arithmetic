@@ -1,0 +1,5 @@
+ts=2019-11-09T11:30:46.2315656+08:00 caller=service.go:47 [Divide]="the dividend can not be zero!"
+ts=2019-11-09T11:37:16.7369286+08:00 caller=service.go:47 [Divide]="the dividend can not be zero!"
+ts=2019-11-09T11:44:08.3816984+08:00 caller=service.go:47 [Divide]="the dividend can not be zero!"
+ts=2019-11-09T11:46:56.9185014+08:00 caller=service.go:47 [Divide]="the dividend can not be zero!"
+ts=2019-11-09T11:50:07.7105019+08:00 caller=service.go:45 [Divide]="the dividend can not be zero!"

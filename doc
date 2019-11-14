@@ -1,0 +1,26 @@
+# 算术运算
+
+- url
+
+  ```
+  POST https://127.0.0.1:8081/calculate
+  ```
+
+- request
+
+  ```go
+  {
+      "requestType" : string  // add\subtract\multiply\divide
+      "a": int
+      "b": int
+  }
+  ```
+
+- response
+
+  ```go
+  {
+      "result": int
+      "error": error
+  }
+  ```
